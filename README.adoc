@@ -1,7 +1,7 @@
-= Saludos, soy kleyderberg marin!
+= Saludos, soy Kleyderberg Marin!
 
 == Profesional
-ingeinieria en informatica
+Ingeniero Informatico
 
 == Contacto
-miguwlmarin797@gmail.com
+miguelmarin797@gmail.com
